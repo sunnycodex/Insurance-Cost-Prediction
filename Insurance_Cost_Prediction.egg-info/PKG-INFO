@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Insurance-Cost-Prediction
+Version: 0.1.0
+Summary: A project to predict insurance costs using machine learning techniques.
+Author: SunnyCodex
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: jupyterlab
+Requires-Dist: flask
