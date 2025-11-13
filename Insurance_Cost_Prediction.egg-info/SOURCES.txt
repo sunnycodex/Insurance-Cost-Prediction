@@ -1,6 +1,0 @@
-setup.py
-Insurance_Cost_Prediction.egg-info/PKG-INFO
-Insurance_Cost_Prediction.egg-info/SOURCES.txt
-Insurance_Cost_Prediction.egg-info/dependency_links.txt
-Insurance_Cost_Prediction.egg-info/requires.txt
-Insurance_Cost_Prediction.egg-info/top_level.txt
